@@ -1,4 +1,3 @@
-/* book.js Nishan Gaudel 301211464 comp229-f2022-midterm-3012114648 */
 
 // modules required for routing
 const { response } = require('express');
