@@ -1,4 +1,3 @@
-/* app.js Nishan Gaudel 301211464 comp229-f2022-midterm-3012114648 */
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
